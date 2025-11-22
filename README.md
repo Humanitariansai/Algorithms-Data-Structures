@@ -8,7 +8,6 @@
 **Course Tutor GPT:** Grace 6205 — The Algorithms Tutor
 [https://chatgpt.com/g/g-MFbqFw55p-grace-6205-the-info-6205-algorithms-tutor](https://chatgpt.com/g/g-MFbqFw55p-grace-6205-the-info-6205-algorithms-tutor)
 
----
 
 # **Course Overview**
 
